@@ -1,0 +1,8 @@
+.main__header{
+    width: 100vh;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    margin-top: 3rem;
+    background-color: red;
+}
